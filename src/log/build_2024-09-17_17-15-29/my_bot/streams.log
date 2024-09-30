@@ -1,0 +1,51 @@
+[0.019s] Invoking command in '/home/as33697920/deu_ws/src/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/as33697920/deu_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/as33697920/deu_ws/src/install/my_bot
+[0.161s] -- The C compiler identification is GNU 11.4.0
+[0.705s] -- The CXX compiler identification is GNU 11.4.0
+[1.066s] -- Detecting C compiler ABI info
+[1.215s] -- Detecting C compiler ABI info - done
+[1.222s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.223s] -- Detecting C compile features
+[1.223s] -- Detecting C compile features - done
+[1.225s] -- Detecting CXX compiler ABI info
+[1.377s] -- Detecting CXX compiler ABI info - done
+[1.384s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.385s] -- Detecting CXX compile features
+[1.385s] -- Detecting CXX compile features - done
+[1.390s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.528s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.584s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.621s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.701s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.704s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.705s] -- Added test 'lint_cmake' to check CMake code style
+[1.707s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.709s] -- Added test 'xmllint' to check XML markup files
+[1.711s] -- Configuring done
+[1.714s] -- Generating done
+[1.715s] -- Build files have been written to: /home/as33697920/deu_ws/src/build/my_bot
+[1.718s] Invoked command in '/home/as33697920/deu_ws/src/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/as33697920/deu_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/as33697920/deu_ws/src/install/my_bot
+[1.720s] Invoking command in '/home/as33697920/deu_ws/src/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/as33697920/deu_ws/src/build/my_bot -- -j12 -l12
+[1.748s] Invoked command in '/home/as33697920/deu_ws/src/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/as33697920/deu_ws/src/build/my_bot -- -j12 -l12
+[1.771s] Invoking command in '/home/as33697920/deu_ws/src/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/as33697920/deu_ws/src/build/my_bot
+[1.778s] -- Install configuration: ""
+[1.779s] -- Execute custom install script
+[1.779s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/config/empty.yaml
+[1.786s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[1.793s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/launch/rsp.launch.py
+[1.799s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/worlds/empty.world
+[1.806s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[1.813s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[1.819s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[1.827s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[1.834s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/environment/path.sh
+[1.841s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/environment/path.dsv
+[1.847s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/local_setup.bash
+[1.853s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/local_setup.sh
+[1.860s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/local_setup.zsh
+[1.867s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/local_setup.dsv
+[1.873s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/package.dsv
+[1.880s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[1.887s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[1.892s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[1.899s] -- Symlinking: /home/as33697920/deu_ws/src/install/my_bot/share/my_bot/package.xml
+[1.909s] Invoked command in '/home/as33697920/deu_ws/src/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/as33697920/deu_ws/src/build/my_bot

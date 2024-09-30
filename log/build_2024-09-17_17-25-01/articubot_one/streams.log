@@ -1,0 +1,15 @@
+[0.020s] Invoking command in '/home/as33697920/deu_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/as33697920/deu_ws/src/articubot_one -DCMAKE_INSTALL_PREFIX=/home/as33697920/deu_ws/install/articubot_one
+[0.032s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.189s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.262s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.262s]   ament_package_xml() package name 'articubot_one' in '/package.xml' does not
+[0.262s]   match current PROJECT_NAME 'my_bot'.  You must call project() with the same
+[0.262s]   package name before.
+[0.262s] Call Stack (most recent call first):
+[0.262s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.262s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.262s] 
+[0.263s] [0m
+[0.263s] -- Configuring incomplete, errors occurred!
+[0.263s] See also "/home/as33697920/deu_ws/build/articubot_one/CMakeFiles/CMakeOutput.log".
+[0.267s] Invoked command in '/home/as33697920/deu_ws/build/articubot_one' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/as33697920/ros2_ws/install/my_robot_controller:/home/as33697920/ros2_ws/install/launch_testing_examples:/home/as33697920/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_service:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_publisher:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_client:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_server:/home/as33697920/ros2_ws/install/examples_rclpy_minimal_action_client:/home/as33697920/ros2_ws/install/examples_rclpy_guard_conditions:/home/as33697920/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/as33697920/deu_ws/src/articubot_one -DCMAKE_INSTALL_PREFIX=/home/as33697920/deu_ws/install/articubot_one

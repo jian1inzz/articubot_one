@@ -1,0 +1,1 @@
+/home/as33697920/deu_ws/src/build/my_bot/ament_cmake_environment_hooks/local_setup.zsh

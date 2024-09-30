@@ -1,0 +1,1 @@
+/home/as33697920/deu_ws/build/articubot_one/ament_cmake_environment_hooks/local_setup.sh
